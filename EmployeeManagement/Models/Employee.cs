@@ -6,5 +6,6 @@
         public string EmpName { get; set; }
         public string Role { get; set; }
         public string Gender { get; set; }
+        public string Address { get; set; }
     }
 }
